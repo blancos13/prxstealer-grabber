@@ -1,0 +1,7 @@
+discord_webhook
+requests
+Crypto.Cipher
+pycryptodome
+base64
+pyarmor
+py_installer
